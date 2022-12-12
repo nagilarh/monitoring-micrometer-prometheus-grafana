@@ -10,4 +10,4 @@ scrape_configs:
     scheme: https
     static_configs:
       - targets:
-          - '2147-45-181-196-198.sa.ngrok.io'
+          - '9667-45-181-196-198.sa.ngrok.io'
